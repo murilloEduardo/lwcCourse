@@ -1,0 +1,25 @@
+main{
+    border: 1px solid black;
+    border-radius: 5px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background-color: white;
+    display: flex;
+}
+
+section{
+    padding: 25px;
+}
+
+.left-side{
+    width: 65%;
+    border: 1px solid black;   
+}
+
+.right-side {
+    width: 35%;
+    border:  1px solid black;
+}
